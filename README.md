@@ -1,3 +1,3 @@
 # git-rebase-test
 
-# Hello world!!!
+# Hi world!
