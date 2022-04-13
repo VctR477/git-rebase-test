@@ -1,1 +1,2 @@
-console.log('Hello master');
+console.log('Hello master-1');
+console.log('Hello from 1');
